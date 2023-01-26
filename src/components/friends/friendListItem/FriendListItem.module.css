@@ -1,12 +1,4 @@
-.friendList {
-  padding-left: 0;
-  max-width: 280px;
-  margin-right: auto;
-  margin-left: auto;
-  margin-bottom: 30px;
-}
-
-/* .item {
+.item {
   display: grid;
   grid-template-columns: 1fr 1fr 2fr;
   align-items: center;
@@ -30,4 +22,4 @@
 
 .name {
   margin-left: 10px;
-} */
+}

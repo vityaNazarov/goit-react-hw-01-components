@@ -14,7 +14,6 @@ export function App() {
   return (
     <div>
       <Profile
-        key={user.username}
         username={user.username}
         tag={user.tag}
         location={user.location}
