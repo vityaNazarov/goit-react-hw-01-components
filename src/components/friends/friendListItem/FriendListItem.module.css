@@ -9,9 +9,12 @@
 }
 
 .status {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  width: 15px;
+  height: 15px;
+  border: none;
+  border-radius: 50%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .avatar {
@@ -22,4 +25,12 @@
 
 .name {
   margin-left: 10px;
+}
+
+.offline {
+  background-color: red;
+}
+
+.online {
+  background-color: green;
 }
